@@ -1,5 +1,12 @@
 # Fruteria
 
+Um sistema de gestão de pedidos de Fruteria possui:
+
+A entidade é chamada pedido, que tem as seguintes características:, descrição, produto, quantidade, preço registrados.
+
+Criada classes que representam essas entidades e seus principais métodos.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
 ## Development server
